@@ -16,7 +16,7 @@ AI Generated</description>
   <itunes:explicit>false</itunes:explicit>
   <atom:link href="https://muse.ai/podcasts/feed/1277093832163002/44e658cf-5032-4b11-99f3-7430c4c5c319" rel="self" type="application/rss+xml"/>
   <image>
-    <url>https://muse.ai/podcasts/media/1277093832163002/44e658cf-5032-4b11-99f3-7430c4c5c319/cover.png</url>
+    <url>https://muse.ai/podcasts/media/1277093832163002/44e658cf-5032-4b11-99f3-7430c4c5c319/cover.jpg</url>
     <title>Wisdom Without the Guilt (Mostly)</title>
     <link>https://muse.ai/podcasts/feed/1277093832163002/44e658cf-5032-4b11-99f3-7430c4c5c319</link>
   </image>
@@ -39,6 +39,16 @@ AI Generated</description>
     <guid isPermaLink="false">ep-8f421e07-d7ec-48cb-a437-844aa8fcb9d4</guid>
     <pubDate>Sun, 04 Oct 2026 12:54:28 +0000</pubDate>
     <itunes:duration>526</itunes:duration>
+  </item>
+  <item>
+    <title>The Eight-Second Prayer - October 5, 2026</title>
+    <description>Rabbi Jackie Jacobson, aka JJ, on Modeh Ani: the eight-second morning prayer that roots your whole day in gratitude. Plus a snooze-button joke, three nuggets, and one thought to carry.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1277093832163002/44e658cf-5032-4b11-99f3-7430c4c5c319/ep-11311b21-36f1-4544-bab4-d514139709bf.mp3" length="3751141" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-11311b21-36f1-4544-bab4-d514139709bf</guid>
+    <pubDate>Mon, 05 Oct 2026 13:07:49 +0000</pubDate>
+    <itunes:duration>468</itunes:duration>
   </item>
 </channel>
 </rss>
